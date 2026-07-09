@@ -11,4 +11,4 @@ A simple todo list built with HTML, CSS and JavaScript.
 
 ## Live Demo
 
-https://lenabrooks.github.io/todo-list/
+https://lenabrooks.github.io/todo-list/ 
